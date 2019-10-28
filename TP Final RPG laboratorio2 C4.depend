@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1572214276 source:d:\proyectos cpp\tp final rpg laboratorio2 c4\usuarios.c
+	"usuarios.h"
+
+1572210269 d:\proyectos cpp\tp final rpg laboratorio2 c4\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572208759 source:d:\proyectos cpp\tp final rpg laboratorio2 c4\desafios.c
+	"desafios.h"
+
+1572207448 d:\proyectos cpp\tp final rpg laboratorio2 c4\desafios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572218008 source:d:\proyectos cpp\tp final rpg laboratorio2 c4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"desafios.h"
+
+1572127621 source:d:\proyectos cpp\tp final rpg laboratorio2 c4\historialdejugadas.c
+	"historialDeJugadas.h"
+
+1572127566 d:\proyectos cpp\tp final rpg laboratorio2 c4\historialdejugadas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
