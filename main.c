@@ -188,7 +188,7 @@ int main()
 
     desafio.idDesafio=7;
     desafio.tipoDesafio='P';
-    strcpy(desafio.descripcionDesafio,"Te toca pelear contra Carlos Menem (Final Boss)...\n");
+    strcpy(desafio.descripcionDesafio,"Te toca pelear contra XXXXXXXXXXXX (Final Boss)...\n");
     desafio.puntosDesafio=50;
     desafio.vidaBase=200;
     desafio.ataqueBase=12;
